@@ -31,15 +31,15 @@ a {
 .sidenav a:hover {
     left: 0;
 }
-.Home {
+.home {
     top: 20px;
     background-color: cornflowerblue;
 }
-.Contact {
+.contact {
     top: 80px;
     background-color: coral;
 }
-.Posts {
+.posts {
     top: 140px;
     background-color: darkseagreen;
 }
