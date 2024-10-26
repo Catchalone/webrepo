@@ -1,14 +1,9 @@
 body {
-    background-color: dodgerblue;
-}
-body {
     font-family: Arial;
     font-size: 20px;
     color: white;
 }
-.middle {
-    width: 80%;
-    margin: auto;
+body {
     background-image: url("images/background.jpg");
 }
 section {
@@ -19,8 +14,4 @@ section {
 }
 section img {
     width: 35%;
-}
-header img {
-    length: 50px;
-    width: 50px;
 }
