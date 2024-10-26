@@ -15,9 +15,6 @@ section {
 section img {
     width: 35%;
 }
-a {
-  color: yellow;
-}
 .sidenav a {
     position: absolute;
     left: -150px;
