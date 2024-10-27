@@ -18,28 +18,3 @@ section img {
 a {
   color: yellow;
 }
-.sidenav a {
-    position: absolute;
-    left: -150px;
-    transition: 0.3s;
-    padding: 15px;
-    width: 150px:
-    text-decoration: none;
-    font-size: 20px;
-    color: white;
-}
-.sidenav a:hover {
-    left: 0;
-}
-.home {
-    top: 20px;
-    background-color: cornflowerblue;
-}
-.contact {
-    top: 80px;
-    background-color: coral;
-}
-.posts {
-    top: 140px;
-    background-color: darkseagreen;
-}
