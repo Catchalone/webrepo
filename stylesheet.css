@@ -16,7 +16,7 @@ section img {
     width: 35%;
 }
 a:link, a:visited {
-  opacity: 0;
+  background-color: black;
   color: white;
   border: 2px solid green;
   padding: 10px 20px;
