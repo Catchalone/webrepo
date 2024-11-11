@@ -29,3 +29,8 @@ a:hover, a:active {
   background-color: dodgerblue;
   color: white;
 }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
