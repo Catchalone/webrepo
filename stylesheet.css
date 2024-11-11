@@ -32,9 +32,11 @@ ul {
 
 li {
   float: left;
+  background-color: black;
 }
 
 li a {
+  background-color: black;
   display: block;
   color: white;
   text-align: center;
