@@ -15,20 +15,6 @@ section {
 section img {
     width: 35%;
 }
-a:link, a:visited {
-  background-color: black;
-  color: white;
-  border: 2px solid dodgerblue;
-  padding: 10px 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-}
-
-a:hover, a:active {
-  background-color: dodgerblue;
-  color: white;
-}
 ul {
   list-style-type: none;
   margin: 0;
