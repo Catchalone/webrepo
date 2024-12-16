@@ -24,14 +24,14 @@ ul {
 }
 
 li {
-  float: left;
+  float: center;
 }
 
 li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 8px 12px;
   text-decoration: none;
 }
 
